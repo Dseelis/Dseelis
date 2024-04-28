@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dseelis
-I'm from Ukraine, I'm learning programming
-I like Linux and I want to create my own distribution
+I'm student from Ukraine, I'm learning programming
+I am currently working on a modpack for the game minecraft, someday I want to create my own linux distro 
 
 <!---
 Dseelis/Dseelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
