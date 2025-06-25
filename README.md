@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dseelis
 I'm student from Ukraine, I'm learning programming
-I am currently working on a modpack for the game minecraft, someday I want to create my own linux distro 
+I am currently working on a modpack's for the game minecraft, mod for minecraft and mod for heart's of iron 4
 
 <!---
 Dseelis/Dseelis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
